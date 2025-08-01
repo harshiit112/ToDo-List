@@ -24,7 +24,7 @@ CSS: Custom, clean styles for layout and responsiveness.
 Vite: Super-fast, modern bundler for rapid development.
 
 📦 Setup
-bash
+
 # Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
@@ -34,4 +34,5 @@ npm install
 
 # Start the development server
 npm run dev
-Visit http://localhost:5173 to use your To-Do List!
+
+
